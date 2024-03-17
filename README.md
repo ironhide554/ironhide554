@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Tiwari</h1>
 <h3 align="center">A passionate AI and ML Enthusiast and Python Developer from India</h3>
 
-<img align = "right" alt = "AI" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+<img align = "right" alt = "AI" width="400" src="[https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironhide554&label=Profile%20views&color=0e75b6&style=flat" alt="ironhide554" /> </p>
 
