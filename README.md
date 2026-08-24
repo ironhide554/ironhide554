@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sparsh Tiwari</h1>
-<h3 align="center">A passionate AI and ML Enthusiast and Python Developer from India</h3>
+<h3 align="center">A passionate AI Engineer and Python Developer from India</h3>
 
 <img align = "right" alt = "AI" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironhide554&label=Profile%20views&color=0e75b6&style=flat" alt="ironhide554" /> </p>
 
-- 🔭 I’m currently working on **Crop Disease Prediction Model using Raspberry Pi embedded on Drone.**
+- 🔭 I’m currently working on as **AI Engineer** in **Tevrix AI Private Limited.**
 
-- 🌱 I’m currently learning **Data Science , Machine Learning ,Deep Learning, DSA using Java**
+- 🌱 I’m currently learning about **AI Voice Agents, Data Science , Machine Learning and Deep Learning Algorithms, DSA using Python**
 
 - 💬 Ask me about **Machine Learning Algorithms , Data Science**
 
-- 📫 How to reach me **sparshtiwari544@gmail.com**
+- 📫 How to reach me **sparshtiwari544@gmail.com** and **sparsh@tevrixai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
