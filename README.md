@@ -53,11 +53,11 @@ class SparshTiwari:
 | Project | What it does | Stack | Code | Live |
 |:--|:--|:--|:-:|:-:|
 | **Diffsage** | AI pull request reviewer: inline comments with one-click suggestions, as a GitHub Action, GitHub App or CLI. Powered by Gemini. | `Python` · `Gemini` · `GitHub Actions` | [Code](https://github.com/ironhide554/Diffsage) | — |
-| **Language-Detection-System** | Transformer-based multilingual language detection with real-time and batch prediction plus an analytics dashboard. | `Python` · `PyTorch` · `Hugging Face` · `Streamlit` | [Code](https://github.com/ironhide554/Language-Detection-System) | — |
-| **Crop-Disease-Prediction** | Model for detecting diseases in crop leaves. | `Jupyter Notebook` | [Code](https://github.com/ironhide554/Crop-Disease-Prediction) | — |
 | **TimeMark** | TypeScript application. *(add a one-line description)* | `TypeScript` | [Code](https://github.com/ironhide554/TimeMark) | — |
-| **AQI-Plant-Recommender** | Recommends plants based on air quality conditions. | `Python` | [Code](https://github.com/ironhide554/AQI-Plant-Recommender) | — |
 | **Github-Digest** | Turns GitHub activity into a concise digest. | `HTML` | [Code](https://github.com/ironhide554/Github-Digest) | — |
+| **AQI-Plant-Recommender** | Recommends plants based on air quality conditions. | `Python` | [Code](https://github.com/ironhide554/AQI-Plant-Recommender) | — |
+| **PromptForge-AI-Intelligent-Prompt-Optimizer** | Transforms simple prompts into high-quality, structured prompts for ChatGPT, Claude, Gemini, DeepSeek and other LLMs. | `Python` · `LLMs` | 🔒 Private | — |
+| **Language-Detection-System** | Transformer-based multilingual language detection with real-time and batch prediction plus an analytics dashboard. | `Python` · `PyTorch` · `Hugging Face` · `Streamlit` | [Code](https://github.com/ironhide554/Language-Detection-System) | — |
 | **DSA-Oriented-Chatbot** | Chatbot built around data structures and algorithms. | `TypeScript` | 🔒 Private | — |
 
 <details>
