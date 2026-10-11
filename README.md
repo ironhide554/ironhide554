@@ -50,17 +50,15 @@ class SparshTiwari:
 
 ## 🌌 Featured Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ironhide554&theme=neon&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115800114%3Fv%3D4&v=showcase-projects-3" alt="Sparsh Tiwari featured projects" width="100%" />
-</p>
-
-### 🗂️ More Projects
-
 | Project | What it does | Stack | Code | Live |
 |:--|:--|:--|:-:|:-:|
 | **Diffsage** | AI pull request reviewer: inline comments with one-click suggestions, as a GitHub Action, GitHub App or CLI. Powered by Gemini. | `Python` · `Gemini` · `GitHub Actions` | [Code](https://github.com/ironhide554/Diffsage) | — |
+| **Language-Detection-System** | Transformer-based multilingual language detection with real-time and batch prediction plus an analytics dashboard. | `Python` · `PyTorch` · `Hugging Face` · `Streamlit` | [Code](https://github.com/ironhide554/Language-Detection-System) | — |
+| **Crop-Disease-Prediction** | Model for detecting diseases in crop leaves. | `Jupyter Notebook` | [Code](https://github.com/ironhide554/Crop-Disease-Prediction) | — |
+| **TimeMark** | TypeScript application. *(add a one-line description)* | `TypeScript` | [Code](https://github.com/ironhide554/TimeMark) | — |
+| **AQI-Plant-Recommender** | Recommends plants based on air quality conditions. | `Python` | [Code](https://github.com/ironhide554/AQI-Plant-Recommender) | — |
+| **Github-Digest** | Turns GitHub activity into a concise digest. | `HTML` | [Code](https://github.com/ironhide554/Github-Digest) | — |
 | **DSA-Oriented-Chatbot** | Chatbot built around data structures and algorithms. | `TypeScript` | 🔒 Private | — |
-| **TimeMark** | TypeScript application. *(add a one-line description)* | `TypeScript` | 🔒 Private | — |
 
 <details>
 <summary><b>More work &amp; what's in progress</b> &nbsp;<i>(click to expand)</i></summary>
