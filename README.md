@@ -56,9 +56,9 @@ class SparshTiwari:
 | **TimeMark** | AI video intelligence platform. Turn YouTube videos & uploads into structured chapter notes, searchable transcripts, and sub-second timestamped Q&A.* | `Python` | [Code](https://github.com/ironhide554/TimeMark) | — |
 | **Github-Digest** | Turns GitHub activity into a concise digest. | `Python` | [Code](https://github.com/ironhide554/Github-Digest) | — |
 | **AQI-Plant-Recommender** | Recommends plants based on air quality conditions. | `Python` | [Code](https://github.com/ironhide554/AQI-Plant-Recommender) | — |
-| **PromptForge-AI-Intelligent-Prompt-Optimizer** | Transforms simple prompts into high-quality, structured prompts for ChatGPT, Claude, Gemini, DeepSeek and other LLMs. | `Python` · `LLMs` | 🔒 Private | — |
+| **PromptForge-AI-Intelligent-Prompt-Optimizer** | Transforms simple prompts into high-quality, structured prompts for ChatGPT, Claude, Gemini, DeepSeek and other LLMs. | `Python` · `LLMs` | [Code](https://github.com/ironhide554/PromptForge-AI-Intelligent-Prompt-Optimizer) | — |
 | **Language-Detection-System** | Transformer-based multilingual language detection with real-time and batch prediction plus an analytics dashboard. | `Python` · `PyTorch` · `Hugging Face` · `Streamlit` | [Code](https://github.com/ironhide554/Language-Detection-System) | — |
-| **DSA-Oriented-Chatbot** | Chatbot built around data structures and algorithms. | `Python` | 🔒 Private | — |
+| **DSA-Oriented-Chatbot** | Chatbot built around data structures and algorithms. | `Python` | [Code](https://github.com/ironhide554/DSA-Oriented-Chatbot) | — |
 
 <details>
 <summary><b>More work &amp; what's in progress</b> &nbsp;<i>(click to expand)</i></summary>
