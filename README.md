@@ -59,6 +59,7 @@ class SparshTiwari:
 | **PromptForge-AI-Intelligent-Prompt-Optimizer** | Transforms simple prompts into high-quality, structured prompts for ChatGPT, Claude, Gemini, DeepSeek and other LLMs. | `Python` · `LLMs` | [Code](https://github.com/ironhide554/PromptForge-AI-Intelligent-Prompt-Optimizer) | — |
 | **Language-Detection-System** | Transformer-based multilingual language detection with real-time and batch prediction plus an analytics dashboard. | `Python` · `PyTorch` · `Hugging Face` · `Streamlit` | [Code](https://github.com/ironhide554/Language-Detection-System) | — |
 | **DSA-Oriented-Chatbot** | Chatbot built around data structures and algorithms. | `Python` | [Code](https://github.com/ironhide554/DSA-Oriented-Chatbot) | — |
+| **Github Analytics Dashboard** | Comprehensive GitHub profile analytics web app — track contribution trends, longest streaks, top languages, and repository commit stats with interactive visual charts. | `Python` | [Code](https://github.com/ironhide554/Github-Analytics-Dashboard) | — |
 
 <details>
 <summary><b>More work &amp; what's in progress</b> &nbsp;<i>(click to expand)</i></summary>
